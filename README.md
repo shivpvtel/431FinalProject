@@ -17,7 +17,7 @@ Steps to use this repository:<br />
   2) Open VScode: Hit cmd+shift+P and then "Python: Select interpreter" and be sure to select "Python 3.12.0 64 bit"<br />
   3) Then in VScode open the terminal and type "Pip3 install psycopg2" and then "Pip3 install sys"<br />
   4) Open up PgAdmin4's Gui and create a database with the default settings shown below:<br />
-''' Python
+'''   python
     Database name = "postgres"
     user = "postgres",
     password = "1234",
