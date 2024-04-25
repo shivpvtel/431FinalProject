@@ -17,13 +17,13 @@ Steps to use this repository:<br />
   2) Open VScode: Hit cmd+shift+P and then "Python: Select interpreter" and be sure to select "Python 3.12.0 64 bit"<br />
   3) Then in VScode open the terminal and type "Pip3 install psycopg2" and then "Pip3 install sys"<br />
   4) Open up PgAdmin4's Gui and create a database with the default settings shown below:<br />
-'''   python
+```   python
     Database name = "postgres"
     user = "postgres",
     password = "1234",
     host = "localhost",
     port = "5432"
-'''
+```
   5) Navigate back to the terminal in vscode, navigate to the directory you want the file to be located in, and clone this repo<br />
   6) Navigate to the import folder and then run every python script to import the data to the PgAdmin4 database.<br />
   7) Navigate to projectcode.py and run the pyhton script to start using the CLI.<br />
