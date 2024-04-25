@@ -7,6 +7,6 @@ The [video](https://github.com/shivpvtel/431FinalProject/blob/main/Project%20Wal
 
 
 This Repository has the following:<br />
-  1) Import folder: make folder that has all the .CSV files which contain the data, as well as python scripts to import the data into PGAdmin4<br />
+  1) [Import folder](https://github.com/shivpvtel/431FinalProject/tree/main/imports): make folder that has all the .CSV files which contain the data, as well as python scripts to import the data into PGAdmin4<br />
   2) [Projectcode.py](https://github.com/shivpvtel/431FinalProject/blob/main/projectcode.py) has the implementation for the CLI.<br />
   3) [ProjectFinalSubmission.pdf](https://github.com/shivpvtel/431FinalProject/blob/main/ProjectFinalSubmission.pdf) is the write up for this project.<br />
